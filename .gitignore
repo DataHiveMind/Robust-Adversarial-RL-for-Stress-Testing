@@ -1,0 +1,16 @@
+# Environments & Secrets
+.env
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Data & Jupyter
+data/*.csv
+data/*.h5
+.ipynb_checkpoints/
+
+# C++ Build Files
+envs/cpp_lob/build/
+*.o
+*.so
